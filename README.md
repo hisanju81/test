@@ -1,2 +1,2 @@
 # test
-Test repo
+Test repo for gut commands demonstration
